@@ -1,0 +1,7 @@
+{
+  "name": "LocationUser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
